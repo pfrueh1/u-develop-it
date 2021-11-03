@@ -5,4 +5,3 @@ CREATE TABLE candidates (
   industry_connected BOOLEAN NOT NULL
 );
 
-asdlkfjklj;sdkfj
